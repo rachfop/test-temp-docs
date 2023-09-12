@@ -1,0 +1,6 @@
+[book]
+authors = ["rachfop"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Temporal docs"
